@@ -55,6 +55,58 @@ in Hyderabad. The operations team faced critical challenges:
 | Dashboard | Microsoft Power BI |
 | Version Control | GitHub |
 
----
+--
 
 ## Project Structure
+
+```
+urban-transit-reliability-fuel-optimization/
+│
+├── README.md                          ← Project documentation
+│
+├── cityline eda.ipynb                 ← Exploratory data analysis
+├── cityline_day10_cleaned_merged.ipynb ← Data cleaning & merging
+├── day 11.ipynb                       ← EDA heatmap & scatter analysis
+├── day 12.ipynb                       ← IQR anomaly detection
+├── day 13.ipynb                       ← Time series delay analysis
+├── day 14.ipynb                       ← Feature engineering
+├── dim bus eda.ipynb                  ← Bus dimension analysis
+├── dim performance.ipynb              ← Performance dimension analysis
+├── dim route.ipynb                    ← Route dimension analysis
+├── fact eda.ipynb                     ← Fact table analysis
+├── ml model.ipynb                     ← Linear regression AI model
+│
+├── v_bus_cost_analysis.csv            ← SQL view: cost analysis
+├── v_delay_analysis.csv               ← SQL view: delay analysis
+├── v_fuel_efficiency.csv              ← SQL view: fuel efficiency
+├── v_route_fuel_analysis.csv          ← SQL view: route fuel
+├── v_route_otp.csv                    ← SQL view: OTP by route
+├── v_trip_duration.csv                ← SQL view: trip duration
+│
+└── CityLine_Dashboard.pbix            ← Power BI dashboard
+```
+
+## Dashboard
+
+🔗 [View Dashboard File](https://github.com/tapasvipolisetti-data/urban-transit-reliability-fuel-optimization/blob/main/CityLine_Dashboard.pbix)
+
+---
+
+## Demo Video
+
+🎥 [Watch Dashboard Walkthrough](#) — coming soon
+
+---
+
+## Author
+
+**Tapasvi Polisetti**  
+Data Analytics Intern  
+tapasvi.polisetti@gmail.com  
+🔗 [github.com/tapasvipolisetti-data](https://github.com/tapasvipolisetti-data)
+
+---
+
+## License
+
+MIT License
