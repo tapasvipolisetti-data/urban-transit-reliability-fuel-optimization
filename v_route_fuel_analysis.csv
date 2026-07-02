@@ -1,0 +1,151 @@
+RouteKey,Route_Name,Total_Trips,Total_Distance_KM,Total_Fuel_Consumed_L,Route_Fuel_Efficiency
+1,"Secunderabad → Hitech City",143,6098.91,1476.51,4.13
+2,"Charminar → Gachibowli",124,5181.53,1253.4,4.13
+3,"Ameerpet → LB Nagar",120,5132.66,1257.28,4.08
+4,"Kukatpally → Jubilee Hills",134,5574.82,1547.61,3.6
+5,"Dilsukhnagar → Madhapur",132,6104.57,1389.63,4.39
+6,"Uppal → Begumpet",130,5389.01,1340.34,4.02
+7,"Miyapur → Mehdipatnam",147,6273.38,1354.64,4.63
+8,"Nagole → Kondapur",140,6517.33,1550.31,4.2
+9,"ECIL → Paradise",151,6705.72,1439.39,4.66
+10,"Tarnaka → Tolichowki",126,5532.91,1310.21,4.22
+11,"Koti → Manikonda",147,6145.4,1485.79,4.14
+12,"Malakpet → Hitex",142,6309.81,1481.29,4.26
+13,"Nampally → Kompally",144,5820.19,1567.95,3.71
+14,"Abids → Financial District",141,6123.35,1388.23,4.41
+15,"SR Nagar → Banjara Hills",141,5688.25,1591.79,3.57
+16,"Hyderabad → Medchal",123,5040.34,1251.61,4.03
+17,"Hyderabad → Shamshabad",131,5080.48,1493.2,3.4
+18,"Hyderabad → Patancheru",141,6377.16,1476.32,4.32
+19,"Hyderabad → Ghatkesar",137,5864.93,1436.29,4.08
+20,"Hyderabad → Ibrahimpatnam",133,5371.59,1428.53,3.76
+21,"Secunderabad → Keesara",143,5918.78,1482.8,3.99
+22,"Secunderabad → Quthbullapur",122,5603.58,1305.1,4.29
+23,"LB Nagar → Hayathnagar",126,5547.92,1331.24,4.17
+24,"Kukatpally → Bachupally",136,5895.77,1444.17,4.08
+25,"Uppal → Boduppal",139,5828.14,1586.19,3.67
+26,"Hyderabad → Warangal",149,6402.79,1585.27,4.04
+27,"Hyderabad → Nizamabad",119,4691.09,1200.64,3.91
+28,"Hyderabad → Karimnagar",140,6151.1,1432.74,4.29
+29,"Hyderabad → Khammam",140,5516.08,1479.64,3.73
+30,"Hyderabad → Nalgonda",122,5166.74,1341.57,3.85
+31,"Hyderabad → Mahbubnagar",151,5943.16,1561.98,3.8
+32,"Hyderabad → Adilabad",143,5921.65,1468.89,4.03
+33,"Hyderabad → Siddipet",120,4653.57,1356,3.43
+34,"Hyderabad → Suryapet",148,6186.09,1450.87,4.26
+35,"Hyderabad → Vikarabad",138,5936.56,1481.07,4.01
+36,"Hyderabad → Sangareddy",137,5784.95,1385.55,4.18
+37,"Warangal → Karimnagar",141,6136.26,1542.09,3.98
+38,"Warangal → Khammam",136,6162.47,1352.36,4.56
+39,"Nizamabad → Karimnagar",137,5813.77,1517.71,3.83
+40,"Nalgonda → Suryapet",115,4714.15,1154.66,4.08
+41,"Mahbubnagar → Jadcherla",153,6354.61,1648.4,3.86
+42,"Karimnagar → Jagtial",144,6009.73,1592.54,3.77
+43,"Hyderabad → Miryalaguda",141,5935.05,1405.13,4.22
+44,"Hyderabad → Wanaparthy",147,6557.05,1568.41,4.18
+45,"Hyderabad → Nagarkurnool",114,4947.51,1198.69,4.13
+46,"Begumpet → Attapur",123,5318.32,1241.4,4.28
+47,"Kothapet → Moosapet",114,5079.53,1191.03,4.26
+48,"Vanasthalipuram → Kukatpally",129,5367,1336.43,4.02
+49,"Malkajgiri → Tolichowki",129,5587.63,1498.62,3.73
+50,"Sainikpuri → Mehdipatnam",133,6156.53,1352.86,4.55
+51,"Dilsukhnagar → Kondapur",123,5404.92,1228.33,4.4
+52,"Alwal → Masab Tank",151,6610.36,1507.1,4.39
+53,"Banjara Hills → Nagole",127,5105.52,1357.45,3.76
+54,"Manikonda → Secunderabad",130,5679.15,1333.47,4.26
+55,"Gachibowli → Trimulgherry",127,5235.61,1293.47,4.05
+56,"Madhapur → Malkajgiri",121,5758.86,1228.63,4.69
+57,"Hitech City → Kothapet",143,6587.25,1427.04,4.62
+58,"Punjagutta → Boduppal",121,5231.53,1193.09,4.38
+59,"Tarnaka → Attapur",118,4827.06,1236.18,3.9
+60,"Kompally → Mehdipatnam",133,5643.38,1418.85,3.98
+61,"Moosapet → LB Nagar",134,5804.89,1456.09,3.99
+62,"Bowenpally → Gachibowli",118,4918.5,1159.06,4.24
+63,"Hayathnagar → Ameerpet",129,5577.54,1441.94,3.87
+64,"Jubilee Hills → ECIL",154,7542.18,1528.07,4.94
+65,"Kondapur → Uppal",124,5053.35,1313.26,3.85
+66,"SR Nagar → Nagole",129,5373.56,1354.44,3.97
+67,"Malakpet → Miyapur",122,4781.21,1344.46,3.56
+68,"Nampally → Vanasthalipuram",135,6045.68,1372.25,4.41
+69,"Financial District → Tarnaka",119,5037.59,1285.34,3.92
+70,"Abids → Kukatpally",166,6828.35,1763.26,3.87
+71,"Hyderabad → Sultanpur",129,5545.7,1399.97,3.96
+72,"Hyderabad → Chevella",157,6435.55,1589.04,4.05
+73,"Secunderabad → Ameenpur",140,5920.21,1302.97,4.54
+74,"Hyderabad → Shankarpally",122,5212.21,1274.84,4.09
+75,"LB Nagar → Srisailam Highway",131,5598.57,1345.59,4.16
+76,"Hyderabad → Tandur",126,5111.05,1301.22,3.93
+77,"Secunderabad → Bibinagar",116,4660.06,1177.88,3.96
+78,"Kukatpally → Medchal",134,6175.59,1521.27,4.06
+79,"Hyderabad → Yacharam",132,5743.23,1253.62,4.58
+80,"Uppal → Ghatkesar",125,5147.02,1326.19,3.88
+81,"Miyapur → Patancheru",146,5981.61,1530.9,3.91
+82,"Hyderabad → Tukkuguda",146,5985.19,1420.21,4.21
+83,"Secunderabad → Yadagirigutta",106,4400.26,1090.51,4.04
+84,"Hyderabad → Chegur",138,5699.44,1442,3.95
+85,"LB Nagar → Ibrahimpatnam",135,5185.43,1433.83,3.62
+86,"Hyderabad → Kandukur",124,5219.78,1372.11,3.8
+87,"Ameerpet → Shamirpet",137,6124,1476.33,4.15
+88,"Hyderabad → Manchal",136,5819.34,1377.41,4.22
+89,"Secunderabad → Ghatkesar",146,5893.64,1411.58,4.18
+90,"Hyderabad → Mucherla",121,5315.32,1248.67,4.26
+91,"Dilsukhnagar → Hayathnagar",139,5515.89,1431.95,3.85
+92,"Hyderabad → Nawabpet",133,5325.47,1348.26,3.95
+93,"Miyapur → Sangareddy",124,5446.09,1291.21,4.22
+94,"Hyderabad → Narsapur",116,4870.26,1297.35,3.75
+95,"ECIL → Keesara",125,5517.86,1142.07,4.83
+96,"Hyderabad → Jangaon",121,5399.43,1254.97,4.3
+97,"Hyderabad → Bhongir",136,6013.85,1344.49,4.47
+98,"Hyderabad → Mancherial",119,4705.2,1214.26,3.87
+99,"Hyderabad → Kothagudem",136,5475.55,1294.28,4.23
+100,"Hyderabad → Ramagundam",132,5296.03,1486.93,3.56
+101,"Warangal → Jangaon",144,6034.4,1478.91,4.08
+102,"Warangal → Mahabuabad",137,6177.17,1448.81,4.26
+103,"Hyderabad → Yellandu",133,5675.02,1435.5,3.95
+104,"Nizamabad → Bodhan",132,5825.47,1464.15,3.98
+105,"Nizamabad → Armoor",141,6033,1485.56,4.06
+106,"Karimnagar → Peddapalli",152,6742.09,1618.39,4.17
+107,"Karimnagar → Siddipet",126,5306.24,1328.83,3.99
+108,"Hyderabad → Kamareddy",139,5782.51,1422.53,4.06
+109,"Warangal → Nalgonda",124,5364.65,1337.44,4.01
+110,"Hyderabad → Narayanpet",136,5900.65,1401.01,4.21
+111,"Mahbubnagar → Nagarkurnool",125,5300.09,1357.65,3.9
+112,"Hyderabad → Gadwal",136,5920.68,1540.86,3.84
+113,"Nalgonda → Miryalaguda",124,5122.17,1281.3,4
+114,"Hyderabad → Wazirabad",135,5877.02,1436.9,4.09
+115,"Khammam → Bhadrachalam",123,5463.73,1238.89,4.41
+116,"Hyderabad → Asifabad",138,6295.93,1414.5,4.45
+117,"Warangal → Suryapet",131,5490.99,1469.71,3.74
+118,"Nizamabad → Jagtial",132,5584.97,1418.12,3.94
+119,"Hyderabad → Korutla",132,5188.97,1421.95,3.65
+120,"Karimnagar → Mancherial",135,6097.69,1408.56,4.33
+121,"Hyderabad → Devarakonda",127,5327.04,1300.11,4.1
+122,"Mahbubnagar → Wanaparthy",138,6208.75,1432.84,4.33
+123,"Khammam → Kothagudem",139,5759.61,1418.85,4.06
+124,"Hyderabad → Zaheerabad",121,5103.3,1288.69,3.96
+125,"Siddipet → Sangareddy",152,6797.48,1604.78,4.24
+126,"Hyderabad → Narsampet",121,4906.09,1110.98,4.42
+127,"Warangal → Siddipet",116,5022.66,1168.19,4.3
+128,"Hyderabad → Medak",132,5093.63,1458.62,3.49
+129,"Nizamabad → Medak",122,5061.22,1350.03,3.75
+130,"Hyderabad → Bhuvanagiri",136,5802.78,1487.91,3.9
+131,"Karimnagar → Nizamabad",143,6289.92,1558.68,4.04
+132,"Nalgonda → Khammam",124,5476.73,1362.66,4.02
+133,"Hyderabad → Shadnagar",137,6088.7,1399.69,4.35
+134,"Mahbubnagar → Kurnool",144,6118.67,1511.89,4.05
+135,"Hyderabad → Siricilla",144,5501.32,1534.95,3.58
+136,"Warangal → Miryalaguda",170,6911.28,1826.14,3.78
+137,"Hyderabad → Husnabad",135,5406.99,1374.38,3.93
+138,"Nizamabad → Banswada",143,6132.92,1482.94,4.14
+139,"Hyderabad → Achampet",140,5820.2,1508.76,3.86
+140,"Karimnagar → Warangal",136,5704.1,1509.94,3.78
+141,"Hyderabad → Bhainsa",122,5248.32,1410.57,3.72
+142,"Nalgonda → Srisailam",126,5245.18,1254.54,4.18
+143,"Hyderabad → Manuguru",132,5807.32,1360.12,4.27
+144,"Nizamabad → Dichpally",132,5702.58,1413.91,4.03
+145,"Hyderabad → Nandyal",133,5838.12,1310.05,4.46
+146,"Warangal → Ramagundam",128,5154.84,1254.83,4.11
+147,"Mahbubnagar → Kodangal",138,5549.58,1506.83,3.68
+148,"Hyderabad → Yellareddy",131,5653.93,1441.13,3.92
+149,"Karimnagar → Korutla",140,6299.09,1588.49,3.97
+150,"Khammam → Suryapet",115,4759.05,1180.59,4.03
