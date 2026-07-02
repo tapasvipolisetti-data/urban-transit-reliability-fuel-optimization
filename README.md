@@ -107,6 +107,24 @@ tapasvi.polisetti@gmail.com
 
 ---
 
+## Documentation
+
+This project is fully documented in this README. For detailed 
+technical documentation, refer to the following sections:
+
+| Document | Description |
+|----------|-------------|
+| Project Overview | End-to-end analytics pipeline description |
+| Problem Statement | Business challenges faced by CityLine Logistics |
+| Key Findings | All KPI results with targets and status |
+| Tech Stack | Tools and technologies used |
+| Project Structure | Repository file organization |
+| AI Model Performance | Linear regression metrics and features |
+| Top 3 Recommendations | Actionable insights for operations team |
+| Project Timeline | 21-day roadmap and milestones |
+
+📄 [Full Documentation](https://github.com/tapasvipolisetti-data/urban-transit-reliability-fuel-optimization#readme)
+
 ## License
 
 MIT License
